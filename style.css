@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+   
+    background-color: white;
+    box-shadow: 10%;
+    border-bottom: 50px;
+   
+}
+button{
+    color: white;
+    background-color: black;
+    border: none;
+    height: 20px;
+    width: 90px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 10px;
+    text-transform: uppercase;
+    border-radius: 10%;
+   
+}
+ul{
+    display: flex;
+    align-items: center;
+    font-size:10px;
+    text-align: right;
+    float: right;
+   margin-right: 10px;
+
+}
+li{
+    color: darkblu;
+    font-size: 10px;
+    list-style-type: none;
+    text-transform: uppercase;
+    padding: 5px;
+    
+}
+.buka{
+  
+    border-radius: 100%;
+    margin: 10px;
+    width: 90px;
+    height: 90px;
+}
+.ucw{
+    background-image: url("imagens/img2.png");
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
